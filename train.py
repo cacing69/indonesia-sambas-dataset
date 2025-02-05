@@ -4,8 +4,8 @@ from transformers import T5Tokenizer, T5ForConditionalGeneration, Trainer, Train
 import pandas as pd
 
 # Load tokenizer dan model T5
-tokenizer = T5Tokenizer.from_pretrained("t5-small")
-model = T5ForConditionalGeneration.from_pretrained("t5-small")
+tokenizer = T5Tokenizer.from_pretrained("t5-base")
+model = T5ForConditionalGeneration.from_pretrained("t5-base")
 
 # Dataset class
 class TranslationDataset(Dataset):
@@ -48,7 +48,7 @@ class TranslationDataset(Dataset):
 # Training arguments
 training_args = TrainingArguments(
     output_dir="./models/t5_finetuned",  # Folder untuk menyimpan checkpoint
-    num_train_epochs=100,                # Jumlah epoch
+    num_train_epochs=10,                # Jumlah epoch
     per_device_train_batch_size=8,     # Batch size
     save_steps=10,                      # Simpan checkpoint setiap 10 step
     save_total_limit=2,                 # Batasi jumlah checkpoint
