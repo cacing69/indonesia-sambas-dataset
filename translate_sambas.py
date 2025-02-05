@@ -1,8 +1,8 @@
 from transformers import T5Tokenizer, T5ForConditionalGeneration
 
 # Load tokenizer dan model hasil fine-tuning
-tokenizer = T5Tokenizer.from_pretrained("./models/t5_finetuned")
-model = T5ForConditionalGeneration.from_pretrained("./models/t5_finetuned")
+tokenizer = T5Tokenizer.from_pretrained("./models/t5_finetuned_sambas")
+model = T5ForConditionalGeneration.from_pretrained("./models/t5_finetuned_sambas")
 
 def translate(text, max_length=128):
     # Format input dengan instruksi

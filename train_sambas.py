@@ -47,9 +47,10 @@ class TranslationDataset(Dataset):
 
 # Training arguments
 training_args = TrainingArguments(
-    output_dir="./models/t5_finetuned",  # Folder untuk menyimpan checkpoint
-    num_train_epochs=10,                # Jumlah epoch
-    per_device_train_batch_size=8,     # Batch size
+    output_dir="./models/t5_finetuned_sambas",  # Folder untuk menyimpan checkpoint
+    num_train_epochs=100,                # Jumlah epoch
+    per_device_train_batch_size=4,  # Kurangi batch size
+    gradient_accumulation_steps=2,  # Akumulasi gradient untuk simulasi batch size lebih besar
     save_steps=10,                      # Simpan checkpoint setiap 10 step
     save_total_limit=2,                 # Batasi jumlah checkpoint
     logging_dir="./logs",               # Folder untuk log
@@ -57,7 +58,7 @@ training_args = TrainingArguments(
 )
 
 # Load dataset
-train_dataset = TranslationDataset('data/indonesia_sambas_train.csv', tokenizer)
+train_dataset = TranslationDataset('data/indonesia_sambas.csv', tokenizer)
 
 # Trainer
 trainer = Trainer(
@@ -70,5 +71,5 @@ trainer = Trainer(
 trainer.train()
 
 # Simpan model terbaik
-model.save_pretrained("./models/t5_finetuned")
-tokenizer.save_pretrained("./models/t5_finetuned")
+model.save_pretrained("./models/t5_finetuned_sambas")
+tokenizer.save_pretrained("./models/t5_finetuned_sambas")
