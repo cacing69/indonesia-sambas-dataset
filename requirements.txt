@@ -1,0 +1,6 @@
+torch
+transformers
+sentencepiece
+pandas
+datasets
+accelerate
