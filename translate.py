@@ -9,8 +9,12 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 with open('data/tokenizer.pkl', 'rb') as f:
     tokenizer = pickle.load(f)
 
-# Load trained model
-model = load_model('models/multilingual_nmt.h5')  # Pastikan file model ada di folder models/
+# Load trained model in Keras Native format
+model = load_model('models/indonesia_sambas.keras')
+
+# Cetak semua layer untuk verifikasi
+for i, layer in enumerate(model.layers):
+    print(f"Layer {i}: {layer.name}")
 
 # Hyperparameters
 embedding_dim = 256
@@ -18,20 +22,21 @@ units = 512
 max_input_len = 20  # Sesuaikan dengan panjang maksimum input pada pelatihan
 
 # Encoder model for inference
-encoder_inputs = model.input[0]  # Input layer untuk encoder
-encoder_outputs, state_h_enc, state_c_enc = model.layers[2].output  # LSTM layer output (encoder)
+encoder_inputs = model.input[0]  # Input layer untuk encoder (Layer 0: input_layer)
+encoder_lstm_layer = model.layers[4]  # LSTM encoder (Layer 4: lstm)
+
+# Hidden state dan cell state dari encoder
+state_h_enc, state_c_enc = encoder_lstm_layer.output[1:]  # Ambil states dari output LSTM
 encoder_states = [state_h_enc, state_c_enc]
+
+# Buat model encoder
 encoder_model = Model(inputs=encoder_inputs, outputs=encoder_states)
 
-# Debugging: Cetak ringkasan encoder model
-print("Encoder Model Summary:")
-print(encoder_model.summary())
-
 # Decoder model for inference
-decoder_inputs = Input(shape=(None,))  # Input layer untuk decoder
-decoder_embedding_layer = model.layers[1]  # Embedding layer untuk decoder
-decoder_lstm = model.layers[3]  # LSTM layer untuk decoder
-decoder_dense = model.layers[4]  # Dense layer untuk decoder
+decoder_inputs = model.input[1]  # Input layer untuk decoder (Layer 1: input_layer_1)
+decoder_embedding_layer = model.layers[3]  # Embedding layer untuk decoder (Layer 3: embedding_1)
+decoder_lstm = model.layers[5]  # LSTM decoder (Layer 5: lstm_1)
+decoder_dense = model.layers[6]  # Dense layer untuk output decoder (Layer 6: dense)
 
 # Tambahkan layer Embedding untuk decoder
 decoder_embedding = decoder_embedding_layer(decoder_inputs)
@@ -41,7 +46,7 @@ decoder_state_input_h = Input(shape=(units,))
 decoder_state_input_c = Input(shape=(units,))
 decoder_states_inputs = [decoder_state_input_h, decoder_state_input_c]
 
-# LSTM layer untuk decoder dengan initial state
+# LSTM decoder dengan initial state
 decoder_outputs, state_h_dec, state_c_dec = decoder_lstm(
     decoder_embedding, initial_state=decoder_states_inputs
 )
@@ -63,9 +68,6 @@ def translate(input_text, source_lang, target_lang):
     # Tokenize input text
     input_seq = tokenizer.texts_to_sequences([input_text])
     input_seq = pad_sequences(input_seq, maxlen=max_input_len, padding='post')
-
-    # Debugging: Cetak shape input_seq
-    print("Input sequence shape:", input_seq.shape)
 
     # Encode input sequence
     states_value = encoder_model.predict(input_seq)

@@ -1,0 +1,21 @@
+{
+  "sambas": "indak",
+  "bentuk_lain": ["inda'", "ndak", "nda'"],
+  "indonesia": ["tidak"],
+  "sinonim": [],
+  "antonim": null,
+  "definisi": "artikel untuk menyatakan pengingkaran, penolakan, penyangkalan, dan sebagainya",
+  "akar": null,
+  "jenis": "kata keterangan",
+  "contoh": [
+    {
+      "sambas": "aku indak nak makan",
+      "indonesia": "saya tidak mau makan"
+    },
+    {
+      "sambas": "aku ndak nak ke rumahmu",
+      "indonesia": "saya tidak ingin pergi ke rumahmu"
+    }
+  ],
+  "audio": null
+}

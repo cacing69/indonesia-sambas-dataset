@@ -29,7 +29,7 @@ decoder_target_data = np.expand_dims(decoder_target_data, -1)
 # Encoder
 encoder_inputs = Input(shape=(None,))
 encoder_embedding = Embedding(input_dim=vocab_size, output_dim=embedding_dim)(encoder_inputs)
-encoder_lstm = LSTM(units, return_state=True)
+encoder_lstm = LSTM(units, return_state=True)  # Pastikan return_state=True
 encoder_outputs, state_h, state_c = encoder_lstm(encoder_embedding)
 encoder_states = [state_h, state_c]
 
@@ -54,5 +54,5 @@ history = model.fit(
     validation_split=0.2
 )
 
-# Save the trained model
+# Save the trained model in Keras Native format
 model.save('models/indonesia_sambas.keras')
