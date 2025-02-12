@@ -4,3 +4,10 @@ sentencepiece
 pandas
 datasets
 accelerate
+scikit-learn
+flask
+sacremoses
+protobuf
+numpy
+flask
+tensorflow
