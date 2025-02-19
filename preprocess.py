@@ -1,18 +1,24 @@
-# preprocessing.py
+# preprocess.py
 import pandas as pd
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 # Load dataset
-df = pd.read_csv('data/dataset_multilingual.csv')
+df = pd.read_csv('dataset/translasi_indonesia_sambas.csv')
 
 # Normalisasi teks
 df['input_text'] = df['input_text'].str.lower()
 df['target_text'] = df['target_text'].str.lower()
 
+# Tambahkan token <start> dan <end> pada target text
+df['target_text'] = '<start> ' + df['target_text'] + ' <end>'
+
+# Gabungkan input dan target untuk tokenizer
+all_texts = pd.concat([df['input_text'], df['target_text']])
+
 # Tokenizer untuk input dan target
 tokenizer = Tokenizer(filters='', oov_token='<OOV>')
-tokenizer.fit_on_texts(pd.concat([df['input_text'], df['target_text']]))
+tokenizer.fit_on_texts(all_texts)
 
 # Tokenisasi input dan target
 input_sequences = tokenizer.texts_to_sequences(df['input_text'])
@@ -34,10 +40,10 @@ print("Max target length:", max_target_len)
 
 # Simpan tokenizer untuk digunakan saat inferensi
 import pickle
-with open('data/tokenizer.pkl', 'wb') as f:
+with open('dataset/tokenizer.pkl', 'wb') as f:
     pickle.dump(tokenizer, f)
 
 # Simpan padded data
 import numpy as np
-np.save('data/padded_inputs.npy', padded_inputs)
-np.save('data/padded_targets.npy', padded_targets)
+np.save('dataset/padded_inputs.npy', padded_inputs)
+np.save('dataset/padded_targets.npy', padded_targets)

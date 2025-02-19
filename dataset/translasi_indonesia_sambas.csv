@@ -1,0 +1,785 @@
+input_text,target_text
+"Halo, apa kabar?","Halo, ape kabar?"
+Saya sedang belajar,Aku agek belajar.
+Dimana rumahmu?,dimane rumahmu?
+Apa yang kamu lakukan?,Agek ngape kau ye?
+Ini sangat menarik,Menarik juak tok.
+Saya suka makan nasi,Aku suke makan nasek.
+Kapan kamu pulang?,bile kau balik?
+Siapa namamu?,sape namemu?
+Berapa harga ini?,Berape harge itok?
+Kamu lagi dimana,kau agek dimane
+siapa namamu,sape namemu
+kamu pergi dengan siapa,kau paggi dengan sape
+apakah kamu sudah sampai?,udah datang ke kau?
+rasa ingin jalan-jalan,rase nak jalan-jalan
+saya sedang berjulan,aku agek jualan
+lagi dimana,agek dimane
+bolehkan saya meminjam uang,bolehke minjam duit
+apa nama desamu,ape name kampongmu
+kamu lagi,kau agek
+aku lagi,aku agek
+"kamu lagi dimana?, aku lagi makan","kau agek dimane?, aku agek makan"
+dari mana,dari mane
+sudah tidur ya?,udah tidok ke?
+iya mau sama siapa lagi,aok nak dengan sape agek
+aku mau,aku maok
+aku ingin,aku nak
+aku ingin makan,aku nak makan
+21 hari lagi,21 ari agek
+ada yang aneh,ade yang endah
+agama mu apa,agame mu ape
+ajarin lah bahasa sambas,ajarek lah bahase sambas
+akhlak kamu itu baik,akhlakmu ye baik
+aku belum bisa melupakan dia,aku balom bise melupakkan die
+aku cinta dewi,aku cinte dewi
+aku ingin ke pasar,aku nak ke pasar
+aku ingin makan sapi dirumah ibu,aku nak makan sapi dirumah umak
+aku ingin pergi kepasar,aku nak paggi kepasar
+aku kangen,aku salok
+anak Sambas,biak sambas
+apa liat liat,ape liat-liat
+apa lihat,ape liat
+bacot kamu,bacot kau
+belum ada duit,balom ade duit
+belum ada duit,sian duit
+boleh along ikutan,boleh along ikutan
+boleh lah,boleh lah
+cowok pacaran,cowok pacaran
+cuaca panas begini minum es kopi enak kali,cuace berau getok minum es kopi nyaman kalu
+dari pada tidak dibalaskan,dari pade daan dibalaskan
+di cari,di care'
+di mana saja,dimane ajak
+dia pingin,die maok
+gak kenapa,daan ngape
+gak kenapa,daan ngape-ngape
+lagi apa,ge ngape
+gimana kabarmu,gimane kabarmu
+hai cantik,hai cantek
+hati ini hanya untuk kamu,hati ittok hanye untokkan kau
+hatiku hanya untukmu,hatiku hanye untukmu
+hay cantik,hay cantek
+hujan rintik,ujan rintik
+ingin makan malam,nak makan malam
+ini game apa,ittok game ape
+isco belum bisa tidur,isco balom bise tidok
+iya nanti di ajari,aok kalak di ajarek
+jangan macam-macam aku masih sayang,usah macam-macam aku maseh sayang
+jangan terlalu main game,usah maing game tolen
+jujur aja,jujor aja'
+jujur sebenernya long gak mau jauh sama usu,jujor sebenernya long daan nak jauh same usu
+kamu datang ke sini kapan,kau bile datang ke sitok
+kamu juga sama,kau same juak
+kamu ke sini,kau kesitok
+kamu kemana tadi,kau kemane tadek
+kamu kemana tadi gak datang ke tempatku,kau kemane tadek daan datang ke tampatku
+kamu lah yang paling betul,kau lah yang paling battol
+kamu masih sekolah kah,kau maseh sekolah ke
+kamu pasti kangen,kau pasti salok
+kamu sini,kau sitok
+kamu tidak ikut,kau daan ikut ke
+kamu tidak main,kau daan maing ke
+kamunya ajah yang baru kelihatan,kau ajak yang barok keliatan
+kangen dia pingin ketemu dia,salok die nak bejumpe
+kapan kamu pulang,bile kau balik
+Kapan kapan aja bg ke sana,bile bile aja' bg kesinun
+kapan kita berdua,bile kitte beduak
+kenapa di matikan,ngape tang di matikan
+kenapa kau melihat aku terus,ngape kau meliat aku tolen
+kenapa lama,ngape tang lamak
+kenapa marah,ngape tang marah
+kesabaran aku lagi di uji,kesabaranku age' di uji
+ketemu dia,bejumpe die
+kok baru keliatan yah,tang barok keliatan i
+lagi apa sih,age ngape we ye
+lama juga yah,lamak juak i
+makan bersama,makan besame-same
+makan hati,makan ati
+makanya jangan begadang,makaenye usah begadang
+malam ini,malam ittok
+malam ni,malam itok
+mana ada aku pacaran,mane ade aku pacaran
+mana aku tau dong,mane aku tau
+Mana bisa nanti rusak hp ku,mane bise kalak rusak hp ku
+masa yang bener,masa yang bener
+mau bangunin tapi takut ganggu,nak bangunkan tapi takut ngacau
+mau kontol,nak paler
+mau nanya boleh,nak nanyak boleh ke
+mengapa kau pergi,ngape kau paggi
+menunggu waktunya aja  nanti tiba juga,tunggu aja' kalak ade waktunye
+menunggu waktunya aja  nanti tiba juga,tunggu ajak kalak ade waktunye
+nanti aku ketiduran,kalak aku ketido'an
+ngomel terus dari tadi,ngerepek tolen dari tadek
+orang sambas ngomong telur kura-kura gak bisa rebus,urang sambas yang ngomong tallo' kura-kura daan bise dirabbus
+orang udah gak suka lagi susah mau bilang,urang udah daan suke age' payah nak padahkan
+pada lagi ngapain sekarang,agek ngape saat itok
+panas banget,berau inyan
+pening tidak chat kamu,panning kepalak daan chat kau
+pergi belanja,paggi belanje
+pergi dinas,paggi dinas
+Pergi WiFi ndak wahyu,paggi WiFi ke daan wahyu
+pindah sekolah,pindah sekolah
+santai disini dulu,santai disitok dolo'
+saya ingin menciummu,aku nak nyium kau
+saya ingin tidur,aku nak tidok
+saya mau mandi,aku nak mandek
+saya rindu calon istriku,aku salo' calon biniku
+saya rindu kampung halaman,aku salo' kampong halaman
+sebelum berangkat dinas fitnes dulu,sebalom berangkat dinas fitnes dolok
+sebelum pergi dinas kita fitnes,sebalom paggi dinas kitte fitnes
+sebelum pergi dinas kita fitnes dulu,sebalom paggi dinas kitte fitnes dolo'k
+seperti kebakar,macam nak tebakar
+silahkan makan,silekan makan
+silahkan minum,silekan minum
+sini aku mau bicara,sittok aku nak ngomong
+sini aku mau ngomong,sittok aku nak ngomong
+sini duduk di samping aku,sittok dudok di sampingku
+sudah pada siap,udah siap
+tempat yang bagus,tampat bagus
+tidur mulu,tidok tolen
+untuk besok,untokkan isok
+ternyata masih pandai,rupenye maseh pandai
+ya belajar lah,belajar lah
+yang aslinya lah,yang aslinye lah
+yang bener,inyan-inyan we
+ye kenapa,ye ngape
+benar lah tidak apa,Inyan lah daan ape
+budak budak kau,biak biak kitak
+duit nya banyak benar,duit nye banyak inyan
+duit nya banyak hingga bertumpuk-tumpuk,duit nye belonggok
+iya nanak makan bah,aok nanak makan we
+yang mana,yang mane
+setelah itu,lakak iye
+siapa itu,sape ye
+sampai hatimu,sampai atimu
+aku ya,aku i
+tidak mengerti,daan ngerati
+kamu tidak,kau daan
+tidak terasa,daan keladaan
+tidak terasa,daan terase
+setelah itu,lakka' iye
+itu saja,iye ajak
+labu air,labu aek
+ruang depan,ruang dapan
+para anak kecil,cik kericik
+Kalimantan Barat,Kalimantan barat
+menjadi jadi,makin jadi
+basa basi,buang pelambai
+10 ribu,10 ribu
+ikan laut,ikan laut
+anak muda,biak muda
+tidak dapat berbuat apa-apa,nda tigalle-galle
+mandi disungai,mandek disungai
+parang untuk memotong kayu,parang majok
+tidak ada,dak ade
+tidak ikhlas,daan ikhlas
+tidak beres,daan ganah
+mataku perih,mateku padeh
+bau keringat yang kering karena berjemur,bau ari
+tahu sama tahu,tau same tau
+tidak kemana-mana,daan kemane-mane
+tak dapat mengerti,daan bise ngeratti
+suka mengganggu,suke ngacau
+menanam ladi,nanam padi
+sedangkan anak kecil aja tau pacaran,sadangkan biak kacik ajak dah tau becinte
+ingin lagi,maok agek
+orang kampung,anak sungai
+orang kampung,biak sungai
+orang kampung,biak kampong
+orang kampung,urang kampong
+berasal dari tempat yang sama,kalle' sekurongan
+tak bisa diam,daan bise diam
+zaman dulu,gek dolo'
+asal usul,asal usol
+malas mau keluar hujan terus,malas nak keluar ujan tolen
+selamatan anak,gunting rambut
+berlipat ganda,belipat gande
+cantik sekali,cantek inyan
+tidak masuk,daan masok
+ke sini,ke sitok
+nanti ya,kalak i
+entah lah ya,intah be i
+entah lah ya,intah lah i
+tengah malam,tangah malam
+belok kanan,melok kanan
+tidak pernah,daan suah
+bahasa sambas,bahase sambas
+ada apa,ade ape
+suka sekali,suke lalu
+sangat menyenangkan,suke lalu
+berubah pikiran,berubah pikeran
+setelah itu,lakkak iye
+aku mau berangkat,aku nak berangkat
+aku mau pergi,aku nak paggi
+ingin pergi,nak paggi
+korek api,korek api
+tidak tidur,daan tidok
+campur baur,campor adok
+lemah badan kamu,lammah badan mu
+sisiran rapi,kilas belampang
+tidak malu,daan supan
+kembang api,bunge api
+pada zaman dahulu,gek mare'k
+tidak enak badan,daan nyaman badan
+mata kaki,bigge' asam
+mata kaki,mate kaki
+sangat takut,takut inyan
+musim mangga,musem asam
+zaman dulu,gek dolok
+di situ,di sie
+bukan main,kan age'
+bukan main,kan agek
+insanak saudara,sanak sodare
+kamu kemana,kau kemane
+tidak simetris,daan simetris
+berhenti merokok,beranti merokok
+lauk pauk,laok paok
+pura pura,purak purak
+ampas minyak kelapa,taek lalla'
+di tinggal,kanak tinggalkan
+masih kenyang,maseh kannyang
+banyak bertanya,alek inyan
+orang miskin,urang sontok
+gotong royong,keraje bakti
+tidak etis,nda' tau adat
+tidak etis,daan tau adat
+tidak etis,daan sopan
+celana dalam,celane dalam
+mondar mandir,pulang balik
+seperti yang aku katakan,iddi jiku
+seperti yang aku katakan,macam yang kupadahkan
+seperti yang aku katakan,macam yang kuomongkan
+sudah datang,dah datang
+terisi penuh,terisek pannoh
+tidak kekal,daan kakkal
+bubur pedas,bubor paddas
+daun sayur khas untuk bubur pedas,daun kasum
+tidak ada,ndak ade
+tidak ada,nda' ade
+sarapan pagi,sarapan pagi
+sarapan pagi,makan pagi
+celana dalam,katok sampak
+dahulu kala,ge' dolo'
+dahulu kala,jaman dolok
+sumpah saya cinta sama anda,busong dih aku cinte dengan kau
+main kasar,maing kasar
+seperti itu,ha geye
+kesana kemari,kullu killek
+basah kuyup,basak baoh
+mata ku perih,mate ku padeh
+tahu diri,tau direk
+mengapa begitu,tang geye
+mengapa begitu,ngape tang geye
+pada zaman dahulu,gek marek
+anak haram,anak ampang
+anak haram,anak kampang
+anak haram,anak hampang
+perawan tua,perawan tue
+dari tadi,dari tade'
+dari tadi,dari tadek
+benar benar,inyan inyan
+saya tidak,aku indak
+saya tidak,aku daan
+tidak bisa diam,daan bise diam
+besok jangan sampai tidak datang bisa marah kakek nya,isok usah sampai daan datang bise-bise marah aki nye
+tidur nyenyak,tidok nyannyak
+tidak tahu,an tau
+tidak tahu,daan tau
+tidak terasa,daan keladdaan
+sifat gile,bodo bale
+tidak bisa,daan bise
+tidak bisa,an bise
+tidak bisa,ndak bise
+tidak bisa,nda' bise
+belok kiri,melok kere'
+1 buah,1 butte'
+1 buah,1 buttek
+tidak nyaman,daan nyaman
+tidak enak,daan nyaman
+banyak sekali,banyak inyan
+banyak sekali,banyak lalu
+jauh sama,jaoh dengan
+"kami, lita","kamek, lita"
+tidak terasa,da'an kelada'an
+mengapa begitu,tang gaye
+keras kepala,karras baddal
+keras kepala,karras kepalak
+kamu itu,kau ye
+bubur pedas,bubbor paddas
+"tak kusangka ,kamu punya hati busuk","daan nyangka, atimu jahat inyan"
+apa kabar,ape kabar
+permainan anak-anak,lem lem ta'
+kok gitu,tang geye
+laki laki,urang laki
+kayu keras,kayu karras
+tidak berdaya,daan bedaye
+jatuh ke air,belabik ke aek
+tolong ngerti perasaan ini sedikit saja,tulong ngerati perasaan itok sikit ajak
+naga sari,nage sari
+naga sari,ukal pisang
+tidak peduli,daan peduli
+burung hanti,burong antu
+burung hanti,burong buwak
+kakak awet muda,kakak awet mudak
+tidak tahu diri,daan ngaddar
+tidak tahu diri,daan tau direk
+kotoran gigi,taek ugik
+hati hati,ati ati
+terima kasih,mak kaseh
+tidak tahu diri,daan ngadar
+tidak tahu diri,daan sadar
+gula pasir,gule paser
+bau keringat kering,bau ari
+tahan lama,tahan lamak
+mama sudah mandi,umak udah mandek
+meminta izin,mintak ijin
+ambil gambar,ambek gambar
+ambil gambar,ambek foto
+jelek sekali,jahat inyan
+sangat tidak bagus,jahat inyan
+sorak sorai,keraok kepaddau
+ikan asin,ikan masing
+jalan kecil,jalan tikus
+pokok sawit,batang sawet
+tempo dulu,ge' dolo'
+tempo dulu,gek dolok
+masa sulit,zaman kopon
+tidak sanggup,daan sanggup
+menggali parit,galek parik
+memenuhi undangan,manohek undangan
+tidak mau,daan maok
+tidak mau,dak maok
+tidak mau,an maok
+meminum air,minum aek
+dia lagi bermain bola,die agek maing bola
+ikan gabus,ikan ruan
+lah ya,lah i
+kaki telanjang,lappa' ayam
+kaki telanjang,lappak ayam
+tidak pergi,daan paggi
+"tak kusangka ,kamu punya hati busuk","daan nyangka, atimu sejahat iye"
+sangat bau,bau inyan
+tidak ambil pusing,daan ambek pusing
+keluarga saya,keluarge ku
+sama sekali tidak memadai,made nda'
+sama sekali tidak memadai,made andak
+sama sekali tidak memadai,made anda'
+bermuka dua,mukke dua'
+bermuka dua,mukke duak
+buruh tani,buroh tani
+tidak mau,indak lalu
+suka lupa,suke lupak
+semasa kecil,gek kaccik
+waktu kecil,gek kaccik
+sopan sekali,sopan lalu
+dahulu kala,gek dolo
+tidak tahu menahu,daan tau menau
+balik pintu,belakang lawang
+tidak tersisa,daan besisa
+bukan begitu,bukan gaiye
+bukan begitu,bukan giye
+bukan begitu,bukan gaye
+benang emas,bannang ammas
+kepingin juga ya kalian,carat juak ke kitak
+kesabaran aku,kesabaran ku
+jangka waktu,jangka' waktu
+jangka waktu,jangkak waktu
+tidak adil,daan adel
+tidak adil,an adel
+sangat kenyang,kanyang inyan
+ini ya,itok i
+ini ya,itok ke
+kamu belum tidur,kau balom tidok ke
+menyakitkan hati,nyakitte' ati
+menyakitkan hati,nyakittek ati
+kepingin juga ternyata,carat ke gasaang
+kepingin juga ternyata,carat ke gasaknye
+kepingin juga ternyata,carat ke saknye
+tak terasa,da'an kelada'an
+tak terasa,daan terase
+lain kali,dudi ari
+lain kali,dudi dudi
+tak jadi,daan jadi
+tak jadi,an jadi
+pergi entah kemana,paggi intah kemane
+jalan besar,jalan basar
+jalan besar,jalan raye
+jalan raya,jalan raye
+tidak akan,indak lalu
+nangis sedih,nangis ngakkal
+duduk di lantai,dudok belampar
+tidak jadi,daan jadi
+tidak jadi,an jadi
+tidak jadi,dak jadi
+tidak jadi,da' jadi
+besok pagi,isok pagi
+bila tu,bille ye
+kulit sapi,kulik sapi
+kasih sayang,kaseh sayang
+tidur ya,tidok ke
+chanel tv,siaran tv
+lagi apa,agek ape
+lagi apa,gek ape
+lagi apa,gek ngape
+lagi apa,agek ngape
+yang itu,iye be
+yang itu,yang iye
+yang itu,nang iye
+daun ubi,cok bandong
+bukan begitu,ndak ke
+bukan begitu,bukan geye
+tidah tahu,daan tau
+tidak ada sama sekali,disse' lalu
+tidak ada sama sekali,sian lalu
+mengeluarkan isi,ngeluarkan isek
+bahasa Indonesia,bahase indonesia
+tanya jawab,tanyak jawab
+celana kolor,kato' kolor
+celana kolor,katok kolor
+hampir tenggelam,amper tengalam
+celana dalam,kato' sampak
+tidak usah,daan jareh
+sekarang kamu,itok kau
+sangat lelah,kapak inyan
+hantu kambing,antu kambe'
+sangat panas,panas inyan
+bulan lalu,bulan lalu
+bukan main,bukan maing
+tengah hari,tangah ari
+sok tahu,sok tau
+pergi keladang,ke ume
+ayam jago,ayam jogok
+hari ini,ari ito'
+hari ini,ari ittok
+hari ini,hari ito'
+hari ini,hari ittok
+kesana kemari,siau layau
+tak peduli,daan peduli
+panjang waktunya,panjang waktunye'
+suara keras,suare nyaring
+luka memar,mattu darah
+tinggi sekali,tinggi inyan
+mudah lupa,lupa' lape'
+mudah lupa,lupak lapek
+sulit diharapkan,payah diharapkan
+memikir sesuatu,mikerkan sesuatu
+tidak perlu repot,usah nak kalut gilak
+tidak ikhlas,an ikhlas
+tidak ikhlas,dak ikhlas
+tempo dulu,ge' mare'
+tempo dulu,jaman dolok
+gitu gitu,geye geye
+saat ini,kin itok
+saat ini,kin ito'
+kotoran telinga,tek tulek
+kotoran telinga,taek tulek
+membuka paksa,bukak pakse
+membuka paksa,mukak pakse
+membuka paksa,buka' pakse
+membuka paksa,muka' pakse
+mengerjakan semua,ngerajekan semue
+nama daun,name daon
+anak nakal,biak soso
+tidak sadar,illang ladde
+tidak sadar,daan sadar
+iya pasti di jaga,aok pasti di jage
+cepat habis,capat abis
+terlalu cantik,cantek gilak
+kulit terbakar sinar matahari,kulik tebakar kanak sinar mateari
+hidup kembali,idup agek
+memelihara binatang,miare binatang
+sanak saudara,sanak sodare
+awas kamu harus bertanggung jawab,awas kau harus tanggong jawab
+mata kena sinar terang,mate kanak sinar tarang
+suka menangis,suke menangis
+suka menangis,suke nangis
+memancing ikan dengan cara pancing ditinggalkan,ngael ikan pakai kael yang ditinggalkan
+panggilan untuk ayah,panggelan untok ayah
+gigi tumbuh bertimpa,gigi tumboh betimpak
+kenapa sekarang jaman sulit yah,ngape kinitok jaman susah i
+ikan lele,ikan kale'
+bangun kesiangan,bangun kesiangan
+suka jalan jalan,suke jalan jalan
+kayuh cepat,kayoh capat
+gigi tumbuh bertimpa,gigi tumbok betimpak
+sekarang kau,itok kau
+orang yang mengadili perkara,urang yang ngadelek pekare
+menutup dengan kain,nutup pakai kaing
+lengan tak bisa diluruskan,langan daan bise diluruskan
+aku ingin makan lauk ayam,aku nak makan laok ayam
+dijadikan istri kedua,kanak jadikan bini kedua
+degil suka menggannggu,jajal suke ngacau
+makanan bayi,makanan biak kacik
+mengambil dan mengumpulkan cairan karet kedalam ember,ngambek dan ngumpolkan caeran karet kedalam ember
+sifat kegila-gilaan,antu bale
+kantor desa,balai desa
+kerak nasi,karrak nase'
+kerak nasi,karrak nasek
+rambutan yang isinya mudah dipisah dari bijinya,rambutan kelotok
+pergi tanpa tujuan yang jelas,pagi tanpa tujuan yang jallas
+jamban keluarga diatas sungai,jamban keluarge diatas sungai
+indahnya bulan tak seindah wajahmu,indahnye bulan daan seindah parasmu
+bau sangat tidak enak,bau badam
+kemana-mana tak tentu arah,kemane-mane daan tantu arah
+mataku perih,mateku paddeh
+masih kuat,maseh kuat
+menutup seluruh badan,nutup seluroh badan
+duduk wanik,duddok pippe'
+duduk wanik,duddok pippek
+kalah sebelum bertanding,kalam sebalom betanding
+sejenis tombak,sejanis tombak
+kurang terang,kurang tarrang
+anak keempat,anak keampat
+keluarga baru dari perkawinan,keluarge baru dari perkawenan
+makan bersama khalayak ramai,makan beramai-ramai
+pada waktu dahulu,gek dolok
+upaya dalam menelusuri silsilah keluarga,upaye dalam nelusurek silsilah keluarge
+tidak biasanya,daan biasenye
+gemuk dan lamban,gamok dan lambat
+pagi sekali,pagi inyan
+kupas kelapa,gusak kelapa'
+kupas kelapa,gusak kelapak
+kupas kelapa,ngusak kelapa'
+kupas kelapa,ngusak kelapak
+bau kentut,bau kantut
+melakukan sesuatu diluar jangkauan,melakukan sesuatu diluar kemampuan
+sama sekali tidak sependapat,daan sependapat
+mengasuh bayi,ngansoh biak kacik
+gulungan kain,gulongan kaing
+membanggakan miliknya kepada orang lain,ngedehkan noknye ke urang laing
+main kartu,maing kartu
+hampir masak,amper masak
+main lumpur,maing lumpor
+jangan coba-coba,usan nak cobe-cobe
+tidak bisa berdiam diri,daan bise diam
+kelakuan sehari-hari,kelakuan seari-ari
+mengusir nyamuk,nguser nyamok
+tidak perlu,daan jarreh
+cuaca hari ini panas banget,cuace ari itok panas inyan
+depan rumah,dapan rumah
+celana pendek,celane pendek
+ya udah,udah lah
+minta ikut,nak ikut
+manadah air,nadah aek
+kopiah dari arab,songkok dari arab
+makanan makhluk halus,makanan antu
+anak hasil hubungan gelap yang tidak mempunyai ayah,anak ampang
+kata hubung untuk kalimat pertentangan,kate hubong yntok kalimat yang betantangan
+sulit dilewati karena ada semak belukar,payah dilewatek karne ade rampok alik
+basah kuyup,basa' buso'
+basah kuyup,basak busok
+telinga berdesing akibat suara yang memekakkan,telinge bedasing karne suare yang nyaring
+daun sayur kas untuk bubur pedas,daon sayok untok bubor padas
+kereta api,gerete api
+berak tapi hanya sedikit tahi yang keluar,berak tapi cuman sikit taeknye yang keluar
+susah dan sedih,susah dan sadeh
+kata orang,jinye urang
+satu dua tiga empat lima enam tujuh lapan sembilan sepuluh,satu duak tige ampat limak annam tujjoh lapan semelan sepuloh
+sayang ku,sayang ku
+menyadap pohon karet untuk memperoleh getah,nyadap pohon kare untok napatkan gatah
+kehilangan arah,keilangan arah
+tidak ada yang keluar sebagai pemenang,sian yang keluar jadi pemanang
+anak nomor dua,anak nomor duak
+nama saya,name saye
+kuat kerja,kuat keraje
+kukira kamu lapar,kireku kau lapar
+kukira kamu lapar,kukire kau lapar
+berhenti merokok,taem merokok
+pergi entah kemana,pagi intah kemane
+mengetuk kepala,nukko' kepalak
+musim tanam padi,musem nanam padi
+melakukan sesuatu,ngerajekan sesuatu
+sudah datang,udah datang
+dahulu kala,gek mare'
+abang saya tidak akan seperti itu kalau tidak ada orang yang merusak kebahagiaan nya saya tau jelas sifat dan sikap abang saya dia tidak akan diam jika ada orang yang merusak atau menghancurkan kebahagiaan nya,abangku daan mungkin macam iye mun sian urang yang merusak kebahagiaan nye aku tau inyan sifat dan sikap abangku due daan mungkin diam mun ade urang yang merusak atau ngancorkan kebahagiaanye
+abangla yang tanya,abanglah yang tanyak
+abangla yang tanyain,abanglah yang tanyakkan
+Ada kah cinta yang tak pernah berakhir,ade ke cinte yang dak suah berakher
+ada tak,ade ke sian
+aduh gak jelas,addoi daan jelas
+aduh kasian,addoi kasian
+agak kering rasanya,agak karring rasenye
+agak sedikit asam,agak masam sikit
+air mata akan berbicara saat mulut tak mampu lagi menjelaskan,aek mate yang akan ngomong pas mulut daan rabbah agek nak menjelaskan
+ajarin dong,ajarek lah
+akan aku jemput d tempat biasa,kalak ku singgahek di tampat biase
+akhirnya saya sampai pada titik dimana saat melihatmu menjadi biasa saja dan mengingatmu tidak lagi luka,akhirnye aku sampai pade titik dimane pas meliatmu udah jadi biase ajak dan mengingatmu daan agek lukak
+aku ada mendengar kabar bahwa dia sudah cerai,aku ade nangar kabar bahwe die udah carrai
+aku cuman mau  minta  maaf karna besok mau raya,saye cuman nak mintak maaf karne issok udah raye
+aku harap kamu tidak akan pernah meninggalkan aku untuk sekian kali nya,aku arap kau dak bakalan ninggalkan aku untuk ke sekian kali nye
+aku ingin kamu ada disini,aku nak kau ade disitok
+aku ingin kepasar,aku nak kepasar
+aku ingin pasar,aku nak pasar
+aku lapar,aku lapar
+aku mencintai mu,aku cinte kau
+aku orang natuna kalaw kamu orang mana,"aku urang natuna, kau urang mane"
+Aku sakit kepala,aku sakit kepalak
+aku sekarang lagi ada di luar kota,itok aku agek diluar kota'
+aku tanpa kamu,aku tanpe kau
+aku tidak mengerti,aku daan ngerati
+aku tunggu sampai tidur,aku tunggu sampai tidok
+memaksakan diri,maksekan direk
+mencari sampai dapat,nyarek sampai dapat
+tidak berani karena merasa tidak mampu,daan berane karne merase daan mampu
+4 hari setelah besok,4 ari lakak isok
+mana nomor hpmu,mane nomor hpmu
+aku beli togel di pasar pagi,aku mali nomor dipasar pagi
+menemani orang berbicara,ngawankan urang ngomong
+makan sirih,makan sireh
+tempat pencucian pakaian,tampat nyuci pakaian
+bicara terus,ngomong tolen
+sebentar lagi mau pulang ke jawa,bantar agek nak balik ke jawe
+menjulurkan lidah,nyulorkan lidah
+selalu aku,aku tolen
+usaha sambilan,usah sambelan
+sekarang kamu,kinitok kau
+tadi malam,tadek malam
+jangan bohong ya za,usah nak bulak za i
+banyak jumlahnya,banyak jumlahnye
+teriak teriak tak karuan,keraok kepakau
+makan di sana,makan di sinun
+tahi lalat,tae' lalat
+tahi lalat,taek lalat
+di mana,di mane
+tidak tahu,dak tau
+tak berdaya,daan bedaye
+sakit perut,sakit parrut
+kerak nasi,karak nasek
+orang gila,urang gile
+melakukan hal yang sama,ngerajekan hal yang same
+garis jalan,alor jalan
+tidak karuan,nda' tantu
+tidak karuan,ndak tantu
+lama lama,lamak lamak
+tidak bisa melihat,daan bise meliat
+gak suka,daan suke
+gak suka,an suke
+gak suka,dak suke
+mengapa begitu,tang gayye
+mengapa begitu,ngape tang gayye
+hari-hari mangga,musem mangga
+orang yang bicaranya ceplas-ceplos,urang yang ngomongnye asal keluar
+"Berjanjilah padaku bahwa kamu tidak akan melupakanku karena jika aku berpikir kamu akan melakukannya, aku tak akan pernah pergi","bejanjilah ku aku bahwe kau ndak bakalan melupakan aku karne apebile aku bepiker kau nak melakukannye, aku ndak akan lari”"
+sedikit sekali,sikit inyan
+lampu aladin,lampu aladdin
+gotong royong,keraje bakti'
+mengambil foto,ngambek foto
+sangat banyak,banyak inyan
+apa yang kamu cari,ape yang kau carek
+memeriksa rumah,merikse rumah
+semak belukar,pok rampok
+bukan main,kan agek yeh
+kawan akrab,kawan kantal
+kawan akrab,set kantal
+satu saja,sigek ajak
+satu saja,sigek jak
+kamu bersama siapa,kau dengan sape
+mau kemana,nak kemane
+sangat besar,bassar inyan
+batas ruas jari,bukko' tangan
+iya sama,aok same
+gara gara,gare gare
+tukang pandai besi,tukang mantan
+tukang pandai besi,tukang pantan
+dahulu kala,ge' mare'
+dahulu kala,gek marek
+bubur pedas,bubbor padas
+sudah makan,udah makan
+jaman dulu,gek marek
+tidak tahu,da'an tau
+memang sudah diketahui bakal demikian,jamman dah tau
+tangannya kapalan,"""tangannye kadalan"""
+jala besar,jale basar
+ikan segar,ikan iddup
+ikan segar,ikan sagar
+belum di khitan,maseh kulup
+lancar berbicara dan merangkai kata,lancar ngomong dan merangkat kate
+sangat jauh,jaoh inyan
+putri malu,kangkong supan
+seperti apa,macam nak ape
+tak jadi,dak jadi
+tak jadi,da' jadi
+bernasib baik,benaseb bagus
+habis tidak bersisa,abis daan besisa
+minyak goreng,minyak makan
+burung pipit,burong pirik
+tidak beres,daan gannah
+tidak beres,daan batol
+tidak berat,daan barat
+baru ini,barok nak kini
+jari manis,jari antu
+jaman dulu,gek dolok
+banyak hingga bertumpuk-tumpuk,banyak sampai betumpok-tumpok
+sangat pandai,pandai inyan
+tidak paham,daan ngerati
+tidak paham,daan paham
+kecil hati,kacik ati
+kecil hati,kaci' ati
+sudah digigit,udah kanak gigit
+jauh disana,jaoh disinun
+membuat lubang,muat lubang
+kucing berkelahi,kucing becakkak
+lain waktu,laing waktu
+celana panjang,celane pendek
+bau keringat,bau ari
+habis itu,lakak iye
+habis itu,abis iye
+ketinggian air,ketinggian aek
+kemarin jalan jalan,semari jalan jalan
+zaman dahulu,ge' mare'
+sangat hitam,itam lalu
+pada waktu dahulu,gek dolo'
+tidak malas,daan malas
+kata orang,nye urang
+kenapa begitu cantik,ngape tang cantek inyan
+laki laki,biak laki
+tunggang langgang,balik belungkang
+tidak mengakui,daan ngakoek
+tidak mengakui,daan ngakoe'
+benar tidak,batol ke
+rasa nya,rase nye
+kurang lancar,daan lancar
+sudah tau resikonya besar masih juga dilakukan,dah tau resikonye basar maseh juak di kerajekan
+berjalan dengan sebalah kaki,bejalan pakai sebalah kaki
+banyak ya,banyak i
+ungkapan yang digunakan ketika latah,cok kolok
+guling guling,guling guling
+kenapa sekarang jaman sulit sekali,ngape kinitok jaman susah inyan
+tidak pasti,nda' tantu
+tidak pasti,nda' pasti
+tidak pasti,ndak tantu
+tidak pasti,ndak pasti
+tidak pasti,daan tantu
+tidak pasti,daan pasti
+bantal guling,bantal gulling
+tidak konsentrasi,daan konsen
+bukan saya,bukan aku
+sekarang ini,kin itok
+apa arti nya,ape rati nye
+penuh air,panoh aek
+yang ini berapa duit,yang itok berape hargenye
+apakah aku bisa,biseke aku
+saya tidur,aku tidok
+sangat basah,basak busok
+ibu jari,indok jari
+tidak tau,daan tau
+kamar tidur,kamar tidok
+keluarga saya,keluarge saye
+orang darat,urang darat
+berangkat kesawah,pagi kume
+teras rumah,teres rumah
+putih sekali,puteh inyan
+burung hantu,burong buak
+warung makan,warong makan
+hujan deras sekali,hujan ribut
+aku mencintaimu,aku cinte kau
+kuning indah,kuning langsat
+sekarang kau,kinitok kau
+lemah tubuh kamu,lamah badan mu
+biji zakar,bige' paler
+biji zakar,bigek paler
+mengacaukan suasana,ngabutte' ae'
+mengacaukan suasana,ngabuttek aek
+mengacaukan suasana,ngabuttek ae'
+mengacaukan suasana,ngabutte' aek
+kurang puas,daan puas
